@@ -12,7 +12,7 @@ go get -u github.com/gorilla/mux
 
 ``` bash
 go build
-./go_restapi
+./smaheshacharya
 ```
 
 ## Endpoints
